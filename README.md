@@ -13,4 +13,4 @@ This repository contains an end-to-end business analysis and data portfolio demo
 ---
 
 ## 🔗 Live Interactive Dashboard
-👉 **[View the Live Tableau Public Dashboard]([https://public.tableau.com/app/profile/.../viz/.../...](https://public.tableau.com/shared/ZKW4NXXSY?:display_count=n&:origin=viz_share_link))**
+👉 **[View the Live Tableau Public Dashboard]((https://public.tableau.com/shared/ZKW4NXXSY?:display_count=n&:origin=viz_share_link))**
