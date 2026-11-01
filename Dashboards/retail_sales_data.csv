@@ -1,0 +1,11 @@
+order_id,customer_id,product_id,category_name,quantity_sold,unit_price,transaction_date,status_code,order_amount,region
+1001,1,101,Electronics,2,25.00,2026-10-15,COMPLETED,50.00,London
+1002,2,102,Grocery,1,15.00,2026-10-16,COMPLETED,15.00,South East
+1003,3,103,Home Appliances,1,120.00,2026-10-17,COMPLETED,120.00,London
+1004,4,104,Apparel,3,20.00,2026-10-18,FAILED,60.00,North
+1005,1,101,Electronics,1,25.00,2026-10-19,COMPLETED,25.00,London
+1006,5,105,Books,2,15.00,2026-10-20,COMPLETED,30.00,Midlands
+1007,6,102,Grocery,4,15.00,2026-10-21,COMPLETED,60.00,South East
+1008,7,103,Home Appliances,1,120.00,2026-10-22,COMPLETED,120.00,London
+
+### [View Live Interactive Executive Dashboard on Tableau Public](https://public.tableau.com/shared/ZKW4NXXSY?:display_count=n&:origin=viz_share_link)
